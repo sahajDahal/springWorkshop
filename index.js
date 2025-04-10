@@ -2,7 +2,7 @@ function kairaviFunFact(){
     const participants = [
         {
             name: "Kairavi",
-            funFact: "I lead tech workshops!"
+            funFact: "fun fact"
         }
     ];
 }
